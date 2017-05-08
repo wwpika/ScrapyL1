@@ -1,0 +1,22 @@
+city:北京
+
+date:05-03		day:阴28°C 		night:阴 16°C
+
+date:05-04		day:晴27°C 		night:多云 13°C
+
+date:05-05		day:晴24°C 		night:多云 10°C
+
+date:05-06		day:晴29°C 		night:晴 15°C
+
+date:05-07		day:晴32°C 		night:晴 16°C
+
+date:05-08		day:多云32°C 		night:晴 16°C
+
+date:05-09		day:阴32°C 		night:阴 18°C
+
+date:05-10		day:局部多云31°C 		night:局部多云 16°C
+
+date:05-11		day:局部多云32°C 		night:局部多云 18°C
+
+date:05-12		day:局部多云35°C 		night:局部多云 18°C
+
